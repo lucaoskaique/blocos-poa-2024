@@ -16,7 +16,7 @@ const PastEventLabel = ({ date }) => (
         <p className="text-center text-gray">
             {date.toLocaleString('en-us', { weekday: 'short' }).toUpperCase()}
             <span className="block font-normal text-2xl md:text-4xl">
-                {date.getDate().toString().padStart(2, '0')}
+                {date.getUTCDate().toString().padStart(2, '0')}
             </span>
         </p>
     </div>
@@ -36,7 +36,9 @@ const FeaturedEventLabel = ({ date }) => (
         <p className="text-center">
             {date.toLocaleString('en-us', { weekday: 'short' }).toUpperCase()}
             <span className="block font-normal text-2xl md:text-4xl">
-                {date.getDate().toString().padStart(2, '0')}
+                {date.getUTCDate().toString().padStart(2, '0') }
+                {console.log(date, 'teste') }
+
             </span>
         </p>
     </div>
@@ -50,7 +52,7 @@ const FutureEventLabel = ({ date }) => (
         <p className="text-center">
             {date.toLocaleString('en-us', { weekday: 'short' }).toUpperCase()}
             <span className="block font-normal text-2xl md:text-4xl">
-                {date.getDate().toString().padStart(2, '0')}
+                {date.getUTCDate().toString().padStart(2, '0')}
             </span>
         </p>
     </div>
@@ -98,13 +100,13 @@ const CustomEventCard = ({
                             ]}
                         >
                             <p>{date.replace('T', ' ')}</p>
-                            <Card.Title additionalClasses={['font-normal']}>
+                            <Card.Title additionalClasses={['font-large']}>
                                 {name}
                             </Card.Title>
                             <Card.Text
-                                additionalClasses={['line-clamp-4 !my-0']}
+                                additionalClasses={['line-clamp-4 text-xl !my-0']}
                             >
-                                {excerpt}
+                                BLOCOS PORTO ALEGRE 2024
                             </Card.Text>
                             <div className="mt-10 flex flex-wrap items-center justify-self-end justify-between">
                                 <p>{address}</p>
