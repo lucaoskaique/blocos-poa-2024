@@ -62,7 +62,6 @@ const CustomEventCard = ({
     name,
     headerImage,
     date,
-    excerpt,
     address,
     price,
     slug,
