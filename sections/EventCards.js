@@ -31,6 +31,10 @@ const EventCards = ({ events, headerText }) => {
     return (
         <div className="max-w-7xl mt-6 mb-6 mx-auto px-4 py-4 sm:px-6 lg:px-8 xl:px-0 justify-center">
             <div className="flex flex-col items-center md:items-center justify-center">
+                <Header additionalClasses={['mb-5 text-center !font-normal']}>
+                    CALENDÁRIO DE BLOQUINHOS
+                    PORTO ALEGRE 2024
+                </Header>
                 <Header additionalClasses={['mb-5 !font-normal']}>
                     {headerText}
                 </Header>

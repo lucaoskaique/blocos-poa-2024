@@ -7,14 +7,14 @@ const Header = () => (
     <Disclosure as="nav">
         {({ open }) => (
             <>
-                <div className="max-w-7xl flex justify-center mx-auto py-4">
-                    <div className="flex-shrink-0 text-center flex grow md:grow-0 items-center justify-center">
+                <div className="max-w-7xl flex justify-center mx-auto py-5">
+                    <div className="">
                         <Link href="/" passHref>
                             <a
                                 href="replace"
-                                className="text-center block w-[500px] md:w-[1500px] h-8 md:h-12 relative "
+                                className="text-center text-3xl"
                             >
-                                CALENDARIO DE BLOQUINHOS PORTO ALEGRE 2024
+                                PORTO ALEGRE 2024
                             </a>
                         </Link>
                     </div>
