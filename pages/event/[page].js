@@ -31,12 +31,12 @@ const EventTemplate = ({ data, pageContext }) => (
         </div>
         <NextEvents
             events={pageContext.nextEvents}
-            headerText="Next Events"
+            headerText="Próximos eventos"
             pageContext={pageContext}
         />
         <div className="flex flex-wrap max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 mt-10">
             <Contact
-                headerText="Do you have more questions?"
+                headerText="Tem algumas dúvidas?"
                 nameInputLabel="Name"
                 emailInputLabel="Email"
                 messageInputLabel="Message"

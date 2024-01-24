@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
@@ -9,16 +8,13 @@ const Header = () => (
         {({ open }) => (
             <>
                 <div className="max-w-7xl flex justify-center mx-auto py-4">
-                    <div className="flex-shrink-0 flex grow md:grow-0 items-center justify-center">
+                    <div className="flex-shrink-0 text-center flex grow md:grow-0 items-center justify-center">
                         <Link href="/" passHref>
-                            <a href="replace" className="block w-[168px] md:w-[252px] h-8 md:h-12 relative">
-                                <Image
-                                    src="/assets/event-logo.svg"
-                                    alt="Flotiq"
-                                    width={252}
-                                    height={48}
-                                    layout="responsive"
-                                />
+                            <a
+                                href="replace"
+                                className="block w-[168px] md:w-[252px] h-8 md:h-12 relative text-3xl"
+                            >
+                                CALENDARIO DE BLOQUINHOS PORTO ALEGRE 2024
                             </a>
                         </Link>
                     </div>

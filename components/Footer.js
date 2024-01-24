@@ -1,5 +1,4 @@
 import React from 'react';
-import { PoweredByFlotiq } from 'flotiq-components-react';
 
 const Footer = () => (
     <footer className="flex flex-col items-center justify-center">
@@ -7,9 +6,8 @@ const Footer = () => (
                 inline-flex justify-between md:justify-center items-center
                 bg-light-gray rounded-t-lg"
         >
-            <PoweredByFlotiq />
             <p className="text-center text-xs md:text-base font-light">
-                Copyright &copy; Flotiq
+                Copyright &copy; lucaoskaique
                 {' '}
                 {new Date().getFullYear()}
             </p>

@@ -1,26 +1,26 @@
 import '../styles/globals.css'
 import Head from 'next/head'
-import { React, useEffect } from 'react';
-import Script from 'next/script';
-import { useRouter } from 'next/router';
-import * as gtag from '../lib/gtag';
+import { React, useEffect } from 'react'
+import Script from 'next/script'
+import { useRouter } from 'next/router'
+import * as gtag from '../lib/gtag'
 
 const MyApp = ({ Component, pageProps }) => {
-    const router = useRouter();
+    const router = useRouter()
     useEffect(() => {
         const handleRouteChange = (url) => {
-            gtag.pageview(url);
-        };
-        router.events.on('routeChangeComplete', handleRouteChange);
+            gtag.pageview(url)
+        }
+        router.events.on('routeChangeComplete', handleRouteChange)
         return () => {
-            router.events.off('routeChangeComplete', handleRouteChange);
-        };
-    }, [router.events]);
+            router.events.off('routeChangeComplete', handleRouteChange)
+        }
+    }, [router.events])
 
     return (
         <div className="bg-dark-blue">
             <Head>
-                <title>Next.js</title>
+                <title>Blocos PoA 2024</title>
                 <link rel="icon" href="/favicon.png" />
             </Head>
             <Script
@@ -43,7 +43,7 @@ const MyApp = ({ Component, pageProps }) => {
             />
             <Component {...pageProps} />
         </div>
-    );
-};
+    )
+}
 
 export default MyApp

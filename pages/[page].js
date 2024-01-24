@@ -17,7 +17,7 @@ const Home = ({ data }) => (
         </Helmet>
         <EventCards
             events={data.data}
-            headerText="Upcoming events"
+            headerText="Proximos eventos"
             additnalClasses={['py-10']}
         />
         <Pagination
@@ -32,7 +32,6 @@ export default Home
 
 export async function getStaticProps({ params }) {
     const events = await getEventAll(params.page, config.event.eventPerPage)
-
     return {
         props: {
             data: events,

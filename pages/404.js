@@ -7,16 +7,16 @@ import Layout from '../layouts/layout'
 const NotFoundPage = () => (
     <Layout>
         <Helmet>
-            <title>Page not found</title>
+            <title>Página não encontrada</title>
         </Helmet>
         <Header alignment="center" additionalClasses={['my-20', '!py-20']}>
-            Page not found, sorry
+            Página não encontrada, desculpe
         </Header>
         <div className="text-center my-20 py-20">
             {/* Example usage of button */}
             <Link href="/" passHref>
                 <a href="replace">
-                    <Button label="Go back to index" />
+                    <Button label="Voltar para o inicio" />
                 </a>
             </Link>
         </div>

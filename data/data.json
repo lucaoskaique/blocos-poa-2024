@@ -1,0 +1,430 @@
+27 de Janeiro - Circuito Lomba do Pinheiro Carnaval de Rua - Estrada João de Oliveira Remião	
+Bloco do Pérola Negra	27/jan
+Bloco do Guerreiro da Lomba	27/jan
+Bloco do Escorpião do Veneno do Amor	27/jan
+Bloco da União do Morro	27/jan
+Bloco do Swing da Mafiosa	27/jan
+Bloco Dos Retalhos	27/jan
+Bloco da Trinca	27/jan
+Bloco Zé Pelé	27/jan
+Bloco Universidade do Samba	27/jan
+Bloco Tinga Mania	27/jan
+Bloco Mavitron	27/jan
+Bloco Carnalivros	27/jan
+Bloco Grande Lomba	27/jan
+Bloco JP Espetinho	27/jan
+Bloco Fala Favela 	27/jan
+3 de fevereiro - Circuito Norte, Território da Paz - Praça México	
+Bloco do Nego Lelo	03/fev
+Bloco Laranja Mecânica	03/fev
+Bloco da Galeria	03/fev
+Bloco Unidos da Portela	03/fev
+Bloco Arranca Mas Não Sai	03/fev
+Bloco Senzala do Coutinho	03/fev
+Bloco Robinho Sorriso	03/fev
+Bloco Fornalha	03/fev
+Bloco Acorda Batuqueiro	03/fev
+Bloco Kizomba	03/fev
+Bloco Arraial da Glória	03/fev
+Bloco Amigos Mestre Estevan	03/fev
+Bloco do Gato	03/fev
+Bloco Panteras do Samba	03/fev
+4 de fevereiro - Restinga - Carnafolia dos Blocos de Rua - Rua Macedônia	
+Bloco Turma da Buzina	04/fev
+Bloco das Donzelas	04/fev
+Bloco da Santana da Restinga	04/fev
+Bloco do Capeta da Restinga	04/fev
+Bloco do Pavão da Restinga	04/fev
+10, 11 e 12 de fevereiro - Carnaval na Orla, POA é D+ - Orla do Guaíba	
+Bloco Afro-tche	10, 11 e 12 de fevereiro
+Bloco B.Loukos	10, 11 e 12 de fevereiro
+Bloco Chiquinho dos Anjos	10, 11 e 12 de fevereiro
+Bloco Gonhas da Folia	10, 11 e 12 de fevereiro
+Bloco Amigos do Mano Delcio	10, 11 e 12 de fevereiro
+Bloco da Amizade TK	10, 11 e 12 de fevereiro
+Bloco Boi Bandido	10, 11 e 12 de fevereiro
+Bloco Os Panteras do Samba	10, 11 e 12 de fevereiro
+Bloco Guardiões do Samba	10, 11 e 12 de fevereiro
+Bloco Trilegal	10, 11 e 12 de fevereiro
+Bloco Os Cardoso	10, 11 e 12 de fevereiro
+Bloco Panela do Samba	10, 11 e 12 de fevereiro
+Bloco do Bartira	10, 11 e 12 de fevereiro
+13 de fevereiro - Circuito Solidariedade - Ilha 	
+Bloco Ilê Rosi Boantu	13/fev
+Bloco Descruze os Braços	13/fev
+Bloco Acadêmico do Mauá	13/fev
+Bloco Cola aí na Avenida	13/fev
+Bloco Unidos Por do Sol	13/fev
+Bloco dos Pipocas	13/fev
+17 de fevereiro - Orla da Diversidade 2024 - Orla do Guaíba 	
+Bloco Turucutá	17/dez
+Bloco Delas	17/dez
+Bloco Lula Bloco (ai que saudade do meu ex)	17/dez
+18 de fevereiro - Orla da Diversidade 2024 - Orla do Guaíba	
+Bloco Banda da Saldanha	18/fev
+Bloco da Junção	18/fev
+Bloco Ziriguidum	18/fev
+Bloco Tribo Carnavalesca Guainazes	18/fev
+25 de fevereiro - Circuito Extremosul - É só Alegria - Praça Inácio Antonio da Silva	
+Bloco Style SK	25/fev
+Bloco do Panelão	25/fev
+Bloco Universidade do Samba	25/fev
+Bloco Tia Cenira	25/fev
+Bloco dos Bolinhas	25/fev
+2 de março - Orla da Diversidade 2024 - Orla do Guaíba 	
+Bloco Filhos do Cumpadi Washington	02/mar
+Bloco Avisem a Shana que Sábado Vai chover	02/mar
+Bloco Não Mexe Comigo Que Eu Não Ando Só	02/mar
+3 de março - Circuito das Famílias - Praça Estado de Israel	
+Bloco do Pirulito	03/mar
+Bloquinho Crionças	03/mar
+Bloco da Praça	03/mar
+9 de março - Circuito Praça das Nações Unidas - Petrópolis	
+Bloco Afrosul Odomodê	09/mar
+Bloco Maracatu	09/mar
+Bloco Candomble La Brasa Lunera	09/mar
+Bloquinho Infatil do Toque de Comadre	09/mar
+10 de março - Olra da Diversidade 2024 - Orla do Guaíba	
+Bloco Bate & Sopra	10/mar
+Bloco do Beijo	10/mar
+Bloco da Gurizadaí	10/mar
+Bloco Magma Groove	10/mar
+Bloco Tecknão - Boa Noite Cinderelo	10/mar
+Bloco Borbulhas de Amor	10/mar
+
+[
+  {
+    "id": "1x4Gt-HZpQ",
+    "date": "2024-01-27",
+    "name": "Bloco do Pérola Negra",
+    "slug": "bloco-do-perola-negra",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-1",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-1",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "24FmZ-q3W8",
+    "date": "2024-01-27",
+    "name": "Bloco do Guerreiro da Lomba",
+    "slug": "bloco-do-guerreiro-da-lomba",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-2",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-2",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "K8LmN-4iP1",
+    "date": "2024-01-27",
+    "name": "Bloco do Escorpião do Veneno do Amor",
+    "slug": "bloco-do-escorpiao-do-veneno-do-amor",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-3",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-3",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "1x4Gt-HZpQ",
+    "date": "2024-01-27",
+    "name": "Bloco da União do Morro",
+    "slug": "bloco-da-uniao-do-morro",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-4",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-4",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "24FmZ-q3W8",
+    "date": "2024-01-27",
+    "name": "Bloco do Swing da Mafiosa",
+    "slug": "bloco-do-swing-da-mafiosa",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-5",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-5",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "K8LmN-4iP1",
+    "date": "2024-01-27",
+    "name": "Bloco Dos Retalhos",
+    "slug": "bloco-dos-retalhos",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-6",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-6",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "1x4Gt-HZpQ",
+    "date": "2024-01-27",
+    "name": "Bloco da Trinca",
+    "slug": "bloco-da-trinca",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-7",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-7",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "24FmZ-q3W8",
+    "date": "2024-01-27",
+    "name": "Bloco Zé Pelé",
+    "slug": "bloco-ze-pele",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-8",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-8",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "K8LmN-4iP1",
+    "date": "2024-01-27",
+    "name": "Bloco Universidade do Samba",
+    "slug": "bloco-universidade-do-samba",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-9",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-9",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "1x4Gt-HZpQ",
+    "date": "2024-01-27",
+    "name": "Bloco Tinga Mania",
+    "slug": "bloco-tinga-mania",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-10",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-10",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "24FmZ-q3W8",
+    "date": "2024-01-27",
+    "name": "Bloco Mavitron",
+    "slug": "bloco-mavitron",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-11",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-11",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "K8LmN-4iP1",
+    "date": "2024-01-27",
+    "name": "Bloco Carnalivros",
+    "slug": "bloco-carnalivros",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-12",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-12",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "1x4Gt-HZpQ",
+    "date": "2024-01-27",
+    "name": "Bloco Grande Lomba",
+    "slug": "bloco-grande-lomba",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-13",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-13",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "24FmZ-q3W8",
+    "date": "2024-01-27",
+    "name": "Bloco JP Espetinho",
+    "slug": "bloco-jp-espetinho",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-14",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-14",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  },
+  {
+    "id": "K8LmN-4iP1",
+    "date": "2024-01-27",
+    "name": "Bloco Fala Favela ",
+    "slug": "bloco-fala-favela",
+    "image": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-15",
+        "type": "internal"
+      }
+    ],
+    "price": "FREE",
+    "address": "Estrada João de Oliveira Remião",
+    "excerpt": "excerpt",
+    "gallery": [
+      {
+        "dataUrl": "/api/v1/content/_media/_media-15",
+        "type": "internal"
+      }
+    ],
+    "description": "description"
+  }
+]
+
+
+
+
