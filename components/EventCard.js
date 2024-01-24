@@ -36,9 +36,7 @@ const FeaturedEventLabel = ({ date }) => (
         <p className="text-center">
             {date.toLocaleString('en-us', { weekday: 'short' }).toUpperCase()}
             <span className="block font-normal text-2xl md:text-4xl">
-                {date.getUTCDate().toString().padStart(2, '0') }
-                {console.log(date, 'teste') }
-
+                {date.getUTCDate().toString().padStart(2, '0')}
             </span>
         </p>
     </div>
@@ -103,7 +101,9 @@ const CustomEventCard = ({
                                 {name}
                             </Card.Title>
                             <Card.Text
-                                additionalClasses={['line-clamp-4 text-xl !my-0']}
+                                additionalClasses={[
+                                    'line-clamp-4 text-xl !my-0',
+                                ]}
                             >
                                 BLOCOS PORTO ALEGRE 2024
                             </Card.Text>
