@@ -29,20 +29,20 @@ const EventCards = ({ events, headerText }) => {
     })
     monthSplitEvents = Object.values(monthSplitEvents)
     return (
-        <div className="max-w-7xl mt-6 mb-6 mx-auto px-4 py-4 sm:px-6 lg:px-8 xl:px-0">
-            <div className="flex flex-col items-center md:items-start justify-start">
+        <div className="max-w-7xl mt-6 mb-6 mx-auto px-4 py-4 sm:px-6 lg:px-8 xl:px-0 justify-center">
+            <div className="flex flex-col items-center md:items-center justify-center">
                 <Header additionalClasses={['mb-5 !font-normal']}>
                     {headerText}
                 </Header>
             </div>
             {monthSplitEvents.map((month) => (
                 <div key={month.name}>
-                    <div className="flex flex-col items-center md:items-start justify-start">
+                    <div className="flex flex-col items-center md:items-center justify-center">
                         <div className="inline-flex items-center justify-center bg-primary mb-8 px-10 py-3 text-white">
                             {month.name}
                         </div>
                     </div>
-                    <div className="flex flex-wrap">
+                    <div className="flex flex-wrap justify-center">
                         {month.events.map((event) => (
                             <EventCard
                                 featured={isFeatured(event)}
