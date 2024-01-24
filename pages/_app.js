@@ -21,7 +21,7 @@ const MyApp = ({ Component, pageProps }) => {
         <div className="bg-dark-blue">
             <Head>
                 <title>Blocos PoA 2024</title>
-                <link rel="icon" href="/favicon.png" />
+                <link rel="icon" href="/favicon.ico" />
                 <meta
                     name="viewport"
                     content="width=device-width, initial-scale=1"
@@ -45,7 +45,7 @@ const MyApp = ({ Component, pageProps }) => {
                 <meta property="og:url" content="https://blocos-poa-2024.vercel.app" />
                 <meta
                     property="og:image"
-                    content="/assets/images/event-logo-new.png"
+                    content="/assets/event-logo-new.png"
                 />
                 <meta
                     property="og:description"
@@ -53,7 +53,7 @@ const MyApp = ({ Component, pageProps }) => {
                 />
                 <meta property="og:site_name" content="Blocos PoA 2024" />
                 <meta name="twitter:card" content="summary_large_image" />
-                <meta name="twitter:site" content="@blocospoa2024" />
+                <meta name="twitter:site" content="@lucaoskaique" />
                 <meta
                     name="twitter:title"
                     content="Calendario de blocos de rua de Porto Alegre 2024"
@@ -64,7 +64,7 @@ const MyApp = ({ Component, pageProps }) => {
                 />
                 <meta
                     name="twitter:image"
-                    content="/assets/images/event-logo-new.png"
+                    content="/assets/event-logo-new.png"
                 />
                 <meta
                     name="twitter:image:alt"
