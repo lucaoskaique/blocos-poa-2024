@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
@@ -12,7 +13,7 @@ const Header = () => (
                         <Link href="/" passHref>
                             <a
                                 href="replace"
-                                className="block w-[168px] md:w-[252px] h-8 md:h-12 relative text-3xl"
+                                className="text-center block w-[500px] md:w-[1500px] h-8 md:h-12 relative "
                             >
                                 CALENDARIO DE BLOQUINHOS PORTO ALEGRE 2024
                             </a>
